@@ -1,0 +1,15 @@
+{
+  "name": "Mini Notes App",
+  "slug": "mini-notes-app",
+  "version": "0.1.0",
+  "description": "A minimal note-taking application with summarize feature",
+  "author": "Developer",
+  "tools": [
+    {
+      "tool_id": "tool-summarize-notes",
+      "name": "Notes Summarizer",
+      "description": "Summarize notes using simple rules",
+      "executable": "./bundle/executas/summarize"
+    }
+  ]
+}

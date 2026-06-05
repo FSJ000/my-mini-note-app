@@ -1,0 +1,5 @@
+{
+  "tool_id": "tool-summarize-notes",
+  "type": "node",
+  "command": ["node", "tool.js"]
+}
